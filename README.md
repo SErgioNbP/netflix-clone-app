@@ -1,6 +1,7 @@
 
 # Fullstack Netflix Clone with React, NextJS, TailwindCSS & Prisma
 
+![netflix-clone](https://user-images.githubusercontent.com/32168953/228551027-3fe51c6e-6ef9-47a6-b7db-4e971a9f4e27.png)
 
 Features:
 
